@@ -4,19 +4,27 @@
     "icons": [
       {
         "name": "X round",
-        "url": "https://raw.githubusercontent.com/iyqgrl/rintohsaka/main/images/X%20Round.png"
-      },
-      {
-        "name": "X",
         "url": "https://raw.githubusercontent.com/iyqgrl/rintohsaka/main/images/X.png"
       },
       {
-        "name": "Twitter X Round",
-        "url": "https://raw.githubusercontent.com/iyqgrl/rintohsaka/main/images/4x/Twitter%20X%20Icon.png"
+        "name": "X",
+        "url": "https://raw.githubusercontent.com/iyqgrl/rintohsaka/main/images/newX.png"
       },
       {
-        "name": "Twitter X",
-        "url": "https://raw.githubusercontent.com/iyqgrl/rintohsaka/main/images/4x/Twitter%20X.png"
+        "name": "anya@tea",
+        "url": "https://raw.githubusercontent.com/iyqgrl/rintohsaka/main/images/anime/anya@tea.png"
+      },
+      {
+        "name": "marin@kiss",
+        "url": "https://raw.githubusercontent.com/iyqgrl/rintohsaka/main/images/anime/marin@kiss.png"
+      },
+      {
+        "name": "marin@smile",
+        "url": "https://raw.githubusercontent.com/iyqgrl/rintohsaka/main/images/anime/marin@smile.png"
+      },
+      {
+        "name": "marin@bw",
+        "url": "https://raw.githubusercontent.com/iyqgrl/rintohsaka/main/images/anime/marin@bw.png"
       }
     ]
   }
