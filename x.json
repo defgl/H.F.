@@ -3,28 +3,36 @@
     "description": "gb",
     "icons": [
       {
-        "name": "X round",
-        "url": "https://raw.githubusercontent.com/iyqgrl/rintohsaka/main/images/X.png"
+        "name": "Pin",
+        "url": "https://raw.githubusercontent.com/iyqgrl/H.F./main/images/Pin.png"
       },
       {
-        "name": "X",
-        "url": "https://raw.githubusercontent.com/iyqgrl/rintohsaka/main/images/newX.png"
+        "name": "Telegram",
+        "url": "https://raw.githubusercontent.com/iyqgrl/H.F./main/images/Telegram.png"
       },
       {
-        "name": "anya@tea",
-        "url": "https://raw.githubusercontent.com/iyqgrl/rintohsaka/main/images/anime/anya@tea.png"
+        "name": "Book",
+        "url": "https://raw.githubusercontent.com/iyqgrl/H.F./main/images/Book.png"
       },
       {
-        "name": "marin@kiss",
-        "url": "https://raw.githubusercontent.com/iyqgrl/rintohsaka/main/images/anime/marin@kiss.png"
+        "name": "VPN",
+        "url": "https://raw.githubusercontent.com/iyqgrl/H.F./main/images/VPN.png"
       },
       {
-        "name": "marin@smile",
-        "url": "https://raw.githubusercontent.com/iyqgrl/rintohsaka/main/images/anime/marin@smile.png"
+        "name": "AppleStore",
+        "url": "https://raw.githubusercontent.com/iyqgrl/H.F./main/images/AppleStore.png"
       },
       {
-        "name": "marin@bw",
-        "url": "https://raw.githubusercontent.com/iyqgrl/rintohsaka/main/images/anime/marin@bw.png"
+        "name": "EU",
+        "url": "https://raw.githubusercontent.com/iyqgrl/H.F./main/images/region/EU.png"
+      },
+      {
+        "name": "TW",
+        "url": "https://raw.githubusercontent.com/iyqgrl/H.F./main/images/region/TW.png"
+      },
+      {
+        "name": "Marin",
+        "url": "https://raw.githubusercontent.com/iyqgrl/H.F./main/images/anime/marin.png"
       }
     ]
   }
