@@ -1,46 +1,90 @@
 {
-    "name": "X icons",
-    "description": "gb",
-    "icons": [
-      {
-        "name": "WP",
-        "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/world-peace.png"
-      },
-      {
-        "name": "Telegram",
-        "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/Telegram.png"
-      },
-      {
-        "name": "Book",
-        "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/Book.png"
-      },
-      {
-        "name": "Telegram",
-        "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/telegram.png"
-      },
-      {
-        "name": "Telegram@2",
-        "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/telegram-2.png"
-      },
-      {
-        "name": "Telegram@3",
-        "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/telegram-3.png"
-      },
-      {
-        "name": "Safari",
-        "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/safari.png"
-      },
-      {
-        "name": "EU",
-        "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/region/EU.png"
-      },
-      {
-        "name": "TW",
-        "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/region/TW.png"
-      },
-      {
-        "name": "Marin",
-        "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/anime/marin.png"
-      }
-    ]
-  }
+  "name": "X icons",
+  "description": "gb",
+  "icons": [
+    {
+      "name": "WP",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/world-peace.png"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/Telegram.png"
+    },
+    {
+      "name": "sakura",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/sakura.png"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/telegram.png"
+    },
+    {
+      "name": "Telegram@2",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/telegram-2.png"
+    },
+    {
+      "name": "Telegram@3",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/telegram-3.png"
+    },
+    {
+      "name": "Telegram@5",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/telegram-5.png"
+    },
+    {
+      "name": "Safari",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/safari.png"
+    },
+    {
+      "name": "Play",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/play.png"
+    },
+    {
+      "name": "Play@2",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/play-2.png"
+    },
+    {
+      "name": "Lego",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/lego.png"
+    },
+    {
+      "name": "Beach Ball",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/beach-ball.png"
+    },
+    {
+      "name": "Arrow",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/arrow.png"
+    },
+    {
+      "name": "TV App",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/tv-app.png"
+    },
+    {
+      "name": "Volleyball",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/volleyball.png"
+    },
+    {
+      "name": "Streaming TV App",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/streaming-tv-app.png"
+    },
+    {
+      "name": "Right",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/right.png"
+    },
+    {
+      "name": "Web Browser",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/web-browser.png"
+    },
+    {
+      "name": "EU",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/region/EU.png"
+    },
+    {
+      "name": "TW",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/region/TW.png"
+    },
+    {
+      "name": "Marin",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/anime/marin.png"
+    }
+  ]
+}
