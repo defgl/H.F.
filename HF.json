@@ -3,8 +3,8 @@
     "description": "gb",
     "icons": [
       {
-        "name": "Pin",
-        "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/Pin.png"
+        "name": "WP",
+        "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/world-peace.png"
       },
       {
         "name": "Telegram",
@@ -15,12 +15,20 @@
         "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/Book.png"
       },
       {
-        "name": "VPN",
-        "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/VPN.png"
+        "name": "Telegram",
+        "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/telegram.png"
       },
       {
-        "name": "AppleStore",
-        "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/AppleStore.png"
+        "name": "Telegram@2",
+        "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/telegram-2.png"
+      },
+      {
+        "name": "Telegram@3",
+        "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/telegram-3.png"
+      },
+      {
+        "name": "Safari",
+        "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/safari.png"
       },
       {
         "name": "EU",
