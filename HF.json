@@ -3,6 +3,34 @@
   "description": "gb",
   "icons": [
     {
+      "name": "Traffic Sign",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/traffic-sign.png"
+    },
+    {
+      "name": "Automatic Flash",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/automatic-flash.png"
+    },
+    {
+      "name": "Database",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/database.png"
+    },
+    {
+      "name": "Up Arrow",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/up-arrow.png"
+    },
+    {
+      "name": "List Option",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/list-option.png"
+    },
+    {
+      "name": "Right Arrow",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/right-arrow.png"
+    },
+    {
+      "name": "Right Arrow 2",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/right-arrow-2.png"
+    },
+    {
       "name": "Letter B",
       "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/letter-b.png"
     },
