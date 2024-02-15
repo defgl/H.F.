@@ -3,6 +3,46 @@
   "description": "gb",
   "icons": [
     {
+      "name": "Browser",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/browser.png"
+    },
+    {
+      "name": "House",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/house.png"
+    },
+    {
+      "name": "Live Streaming",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/live-streaming.png"
+    },
+    {
+      "name": "Movies App",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/movies-app.png"
+    },
+    {
+      "name": "Play@3",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/play-3.png"
+    },
+    {
+      "name": "Spotify@2",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/spotify-2.png"
+    },
+    {
+      "name": "Spotify",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/spotify.png"
+    },
+    {
+      "name": "Telegram@8",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/telegram-8.png"
+    },
+    {
+      "name": "Telegram@9",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/telegram-9.png"
+    },
+    {
+      "name": "Youtube",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/youtube.png"
+    },
+    {
       "name": "Traffic Sign",
       "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/traffic-sign.png"
     },
