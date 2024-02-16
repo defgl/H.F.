@@ -3,6 +3,74 @@
   "description": "gb",
   "icons": [
     {
+      "name": "App Store@2",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/app-store-2.png"
+    },
+    {
+      "name": "App Store",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/app-store.png"
+    },
+    {
+      "name": "Apple@2",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/apple-2.png"
+    },
+    {
+      "name": "Bilibili",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/bilibili.png"
+    },
+    {
+      "name": "European Union@2",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/european-union-2.png"
+    },
+    {
+      "name": "Floral Design@2",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/floral-design-2.png"
+    },
+    {
+      "name": "Floral Design@3",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/floral-design-3.png"
+    },
+    {
+      "name": "Floral Design@4",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/floral-design-4.png"
+    },
+    {
+      "name": "Floral Design@5",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/floral-design-5.png"
+    },
+    {
+      "name": "Floral Design",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/floral-design.png"
+    },
+    {
+      "name": "French Fries",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/french-fries.png"
+    },
+    {
+      "name": "Fried Chicken",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/fried-chicken.png"
+    },
+    {
+      "name": "iCloud",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/icloud.png"
+    },
+    {
+      "name": "Muffin",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/muffin.png"
+    },
+    {
+      "name": "Network",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/network.png"
+    },
+    {
+      "name": "Popcorn",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/popcorn.png"
+    },
+    {
+      "name": "Safari@2",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/safari-2.png"
+    },
+    {
       "name": "Browser",
       "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/browser.png"
     },
