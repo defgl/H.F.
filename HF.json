@@ -3,6 +3,70 @@
   "description": "𝒜 𝐿𝒾𝓃 𝒟𝒶𝒾𝓎𝓊 𝒻𝒶𝓁𝓁𝓈 𝒻𝓇𝑜𝓂 𝓉𝒽𝑒 𝓈𝓀𝓎.🩵",
   "icons": [
     {
+      "name": "television-2",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/television-2.png"
+    },
+    {
+      "name": "cloud-computing-2",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/cloud-computing-2.png"
+    },
+    {
+      "name": "video-player",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/video-player.png"
+    },
+    {
+      "name": "german",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/german.png"
+    },
+    {
+      "name": "beer-mug",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/beer-mug.png"
+    },
+    {
+      "name": "portable-fridge",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/portable-fridge.png"
+    },
+    {
+      "name": "currency",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/currency.png"
+    },
+    {
+      "name": "piggy-bank",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/piggy-bank.png"
+    },
+    {
+      "name": "duck",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/duck.png"
+    },
+    {
+      "name": "viennese",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/viennese.png"
+    },
+    {
+      "name": "chicken-leg",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/chicken-leg.png"
+    },
+    {
+      "name": "airplane-mode",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/airplane-mode.png"
+    },
+    {
+      "name": "donut",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/donut.png"
+    },
+    {
+      "name": "email",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/email.png"
+    },
+    {
+      "name": "envelope",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/envelope.png"
+    },
+    {
+      "name": "landline",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/landline.png"
+    },
+    {
       "name": "apple-4",
       "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/apple-4.png"
     },
