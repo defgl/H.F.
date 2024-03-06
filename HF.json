@@ -58,10 +58,6 @@
       "name": "web",
       "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/web.png"
     },
-    {
-          "name": "European Union@2",
-          "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/european-union-2.png"
-        },
         {
           "name": "Floral Design@2",
           "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/floral-design-2.png"
@@ -120,7 +116,7 @@
         },
         {
           "name": "Live Streaming",
-          "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/live-streaming.png"
+          "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/livestreaming.png"
         },
         {
           "name": "Movies App",
@@ -287,10 +283,6 @@
           "url": "https://raw.githubusercontent.com/defgl/H.F./main/images/sakura.png"
         },
         {
-          "name": "Telegram",
-          "url": "https://raw.githubusercontent.com/defgl/H.F./main/images/telegram.png"
-        },
-        {
           "name": "Telegram@2",
           "url": "https://raw.githubusercontent.com/defgl/H.F./main/images/telegram-2.png"
         },
@@ -357,10 +349,6 @@
         {
           "name": "TW",
           "url": "https://raw.githubusercontent.com/defgl/H.F./main/images/region/TW.png"
-        },
-        {
-          "name": "LEGO",
-          "url": "https://raw.githubusercontent.com/defgl/H.F./main/images/anime/lego.png"
         },
         {
           "name": "3D Glasses",
