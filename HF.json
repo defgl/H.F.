@@ -3,6 +3,66 @@
   "description": "𝒜 𝐿𝒾𝓃 𝒟𝒶𝒾𝓎𝓊 𝒻𝒶𝓁𝓁𝓈 𝒻𝓇𝑜𝓂 𝓉𝒽𝑒 𝓈𝓀𝓎.🩵",
   "icons": [
     {
+      "name": "apple-4",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/apple-4.png"
+    },
+    {
+      "name": "coffee-machine",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/coffee-machine.png"
+    },
+    {
+      "name": "cup",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/cup.png"
+    },
+    {
+      "name": "cups",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/cups.png"
+    },
+    {
+      "name": "database-2",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/database-2.png"
+    },
+    {
+      "name": "drink",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/drink.png"
+    },
+    {
+      "name": "eraser",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/eraser.png"
+    },
+    {
+      "name": "ice",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/ice.png"
+    },
+    {
+      "name": "milk-2",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/milk-2.png"
+    },
+    {
+      "name": "milk-3",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/milk-3.png"
+    },
+    {
+      "name": "piggy-bank-2",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/piggy-bank-2.png"
+    },
+    {
+      "name": "projector-2",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/projector-2.png"
+    },
+    {
+      "name": "projector-3",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/projector-3.png"
+    },
+    {
+      "name": "sugar",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/sugar.png"
+    },
+    {
+      "name": "ying-yang",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/ying-yang.png"
+    },
+    {
       "name": "App Store@2",
       "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/app-store-2.png"
     },
