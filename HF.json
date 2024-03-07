@@ -3,6 +3,22 @@
   "description": "𝒜 𝐿𝒾𝓃 𝒟𝒶𝒾𝓎𝓊 𝒻𝒶𝓁𝓁𝓈 𝒻𝓇𝑜𝓂 𝓉𝒽𝑒 𝓈𝓀𝓎.🩵",
   "icons": [
     {
+      "name": "sim-card",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/sim-card.png"
+    },
+    {
+      "name": "letter-m",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/letter-m.png"
+    },
+    {
+      "name": "ice-cream-2",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/ice-cream-2.png"
+    },
+    {
+      "name": "ice-cream",
+      "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/ice-cream.png"
+    },
+    {
       "name": "television-2",
       "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/television-2.png"
     },
@@ -145,6 +161,14 @@
     {
       "name": "bilibili",
       "url": "https://raw.githubusercontent.com/urs4e/H.F./main/images/bili.png"
+    },
+    {
+      "name": "bilibili-2",
+      "url": "https://github.com/Centralmatrix3/Matrix-io/blob/master/Gallery/Color/BiliBili-1.png?raw=true"
+    },
+    {
+      "name": "bilibili-3",
+      "url": "https://github.com/Centralmatrix3/Matrix-io/blob/master/Gallery/Color/BiliBili-2.png?raw=true"
     },
     {
       "name": "baseball",
